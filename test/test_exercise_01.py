@@ -1,4 +1,4 @@
-from exercise_01 import found_type
+from day_01.exercise_01 import found_type
 from importlib import reload, import_module
 import shutil
 
