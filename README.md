@@ -29,3 +29,32 @@ Each day of the challenge follows this structure:
 2. **Practical Exercise**: Apply what you've learned by completing a coding exercise.
 3. **Code Review**: Review the provided solution and compare it with your own.
 4. **Challenge Yourself**: Take on an optional extra challenge to push your skills further.
+
+## Pruebas Unitarias 🚧
+
+Para ejecutar las pruebas unitarias que has proporcionado, necesitas seguir estos pasos:
+
+1. **Instala pytest**: Si aún no tienes instalado el módulo `pytest`, necesitarás instalarlo. Puedes hacerlo usando el administrador de paquetes `pip`. Abre tu terminal o línea de comandos y ejecuta:
+
+```bash
+pip install pytest
+```
+
+2. **Organiza tus archivos**: Asegúrate de que el archivo con las pruebas (el fragmento de código que proporcionaste) esté guardado en un archivo con la extensión `.py`. Por ejemplo, guárdalo como `test_exercise.py`.
+
+3. **Ubicación de archivos**: Asegúrate de que el archivo `exercise_01.py` (desde el cual importas la función `found_type`) esté en el mismo directorio que tu archivo de pruebas (`test_exercise.py`).
+
+4. **Ejecuta las pruebas**: Abre la terminal o línea de comandos y navega al directorio donde se encuentran tus archivos. Luego, ejecuta el siguiente comando:
+
+```bash
+pytest test_exercise.py
+```
+
+Esto ejecutará las pruebas definidas en `test_exercise.py` y mostrará los resultados en la consola. Si todas las pruebas pasan exitosamente, verás un mensaje indicando que todo está bien. Si alguna prueba falla, obtendrás información detallada sobre qué prueba falló y cómo.
+
+
+## TODO
+[ ] - Traducir el README Principal
+[ ] - Traducir el README de cada dia.
+[ ] - Redactar mejor la explicación de las pruebas unitarias.
+
