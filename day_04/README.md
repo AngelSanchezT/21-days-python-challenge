@@ -1,34 +1,44 @@
-# ✅ Ejercicio 04 - Dibuja un triangulo usando bucles
+# ✅ Ejercicio 05 - Encuentra a los gatitos más famosos
 
+En este desafío, debes encontrar al gatito más famoso con base en su número de seguidores.
 
-En este desafío, debes dibujar un triángulo equilatero usando bucles.
+Recibirás una lista de diccionarios que incluirán las siguientes propiedades:
 
-Recibirás dos parámetros: `size` y `character`, que definen el número de filas que tendrá y el carácter con el que se debe construir el triángulo, respectivamente. Además, el triángulo debe estar alineado al centro, lo que significa que la misma cantidad de caracteres debe haber en ambos lados.
-
-> Recuerda que para hacer el salto de línea debes usar "\n", no olvides removerla de la última parte, debes retornar todo esto en una variable.
-> 
+"name": nombre del gatito.
+"followers": una lista de números, donde cada uno representa los seguidores de cada red social.
+Tu tarea es devolver una lista con los nombres de los gatos que tienen solo el mayor número de seguidores. Si hay dos o más gatos con el mismo número máximo de seguidores, deberás incluirlos en la lista resultante, manteniendo el orden en el que aparecen en la lista de entrada.
 
 Tendrás inputs y outputs como los siguientes 👇
 
 Ejemplo 1:
 
-```
-Input: printTriangle(3, "*")
-Output:
-  *
- ***
-*****
-```
+Input: find_famous_cat([
+  {
+    "name": "Luna",
+    "followers": [500, 200, 300]
+  },
+  {
+    "name": "Michi",
+    "followers": [100, 300]
+  },
+])
 
+Output: ["Luna"]
 Ejemplo 2:
 
-```
-Input: printTriangle(6, "$")
-Output:
-     $
-    $$$
-   $$$$$
-  $$$$$$$
- $$$$$$$$$
-$$$$$$$$$$$
-```
+Input: find_famous_cat([
+  {
+    "name": "Mimi",
+    "followers": [320, 120, 70]
+  },
+  {
+    "name": "Milo",
+    "followers": [400, 300, 100, 200]
+  },
+  {
+    "name": "Gizmo",
+    "followers": [250, 750]
+  }
+])
+
+Output: ["Milo", "Gizmo"]

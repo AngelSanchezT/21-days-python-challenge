@@ -1,4 +1,4 @@
-from day_04.exercise_04 import print_triangle
+from day_03.exercise_04 import print_triangle
 from importlib import reload, import_module
 import shutil
 
