@@ -1,4 +1,4 @@
-from main import find_famous_cat
+from day_04.exercise_05 import find_famous_cat
 from importlib import reload, import_module
 import shutil
 

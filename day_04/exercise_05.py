@@ -1,3 +1,2 @@
-def get_student_average(students):
-  # Tu código aquí 👈
+def find_famous_cat(cats):
   pass
