@@ -1,4 +1,4 @@
-from main import get_student_average
+from day_04.exercise_06 import get_student_average
 from importlib import reload, import_module
 import shutil
 
