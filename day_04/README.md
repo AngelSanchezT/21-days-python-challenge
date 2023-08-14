@@ -43,7 +43,7 @@ Input: find_famous_cat([
 
 Output: ["Milo", "Gizmo"]
 
-# ✅ Ejercicio 06 - Obtén el promedio de los estudiantes
+## ✅ Ejercicio 06 - Obtén el promedio de los estudiantes
 
 En este desafío, deberás calcular el promedio general de una clase, así como el promedio individual de cada estudiante.
 
@@ -100,7 +100,8 @@ Output: {
   ]
 }
 ```
-# Ejercicio 06 - Obten la información de los paquetes
+
+## Ejercicio 07 - Obten la información de los paquetes
 
 En este desafío, te encuentras trabajando para una empresa de transporte de carga que necesita llevar un registro de los paquetes que se envían en cada viaje. Para ello, se te proporcionará una lista de tuplas, cada una de las cuales representará un paquete y tendrá las siguientes propiedades:
 
