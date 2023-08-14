@@ -1,4 +1,4 @@
-from main import find_set_intersection
+from day_06.exercise_10 import find_set_intersection
 from importlib import reload, import_module
 import shutil
 
