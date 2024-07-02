@@ -30,31 +30,30 @@ Each day of the challenge follows this structure:
 3. **Code Review**: Review the provided solution and compare it with your own.
 4. **Challenge Yourself**: Take on an optional extra challenge to push your skills further.
 
-## Pruebas Unitarias 🚧
+## Unit Tests 🚧
 
-Para ejecutar las pruebas unitarias que has proporcionado, necesitas seguir estos pasos:
+To run the unit tests you have provided, you need to follow these steps:
 
-1. **Instala pytest**: Si aún no tienes instalado el módulo `pytest`, necesitarás instalarlo. Puedes hacerlo usando el administrador de paquetes `pip`. Abre tu terminal o línea de comandos y ejecuta:
+1. **Install pytest**: If you do not have the `pytest` module installed, you will need to install it. You can do this using the `pip` package manager. Open your terminal or command line and run:
 
 ```bash
 pip install pytest
 ```
 
-2. **Organiza tus archivos**: Asegúrate de que el archivo con las pruebas (el fragmento de código que proporcionaste) esté guardado en un archivo con la extensión `.py`. Por ejemplo, guárdalo como `test_exercise.py`.
+2. Organize your files: Make sure the file with the tests (the code snippet you provided) is saved in a file with the .py extension. For example, save it as test_exercise.py.
 
-3. **Ubicación de archivos**: Asegúrate de que el archivo `exercise_01.py` (desde el cual importas la función `found_type`) esté en el mismo directorio que tu archivo de pruebas (`test_exercise.py`).
+3. File location: Ensure that the exercise_01.py file (from which you import the found_type function) is in the same directory as your test file (test_exercise.py).
 
-4. **Ejecuta las pruebas**: Abre la terminal o línea de comandos y navega al directorio donde se encuentran tus archivos. Luego, ejecuta el siguiente comando:
+4. Run the tests: Open the terminal or command line and navigate to the directory where your files are located. Then, run the following command:
 
 ```bash
 pytest test_exercise.py
 ```
 
-Esto ejecutará las pruebas definidas en `test_exercise.py` y mostrará los resultados en la consola. Si todas las pruebas pasan exitosamente, verás un mensaje indicando que todo está bien. Si alguna prueba falla, obtendrás información detallada sobre qué prueba falló y cómo.
+This will run the tests defined in test_exercise.py and display the results in the console. If all tests pass successfully, you will see a message indicating that everything is fine. If any test fails, you will get detailed information about which test failed and how.
 
-
-## TODO
-[ ] - Traducir el README Principal
-[ ] - Traducir el README de cada dia.
-[ ] - Redactar mejor la explicación de las pruebas unitarias.
+TODO
+- [ ] Translate the main README
+- [ ] Translate the README for each day.
+- [ ] Improve the explanation of the unit tests.
 
