@@ -29,3 +29,22 @@ Cada día del reto sigue esta estructura:
 2. **Ejercicio Práctico**: Aplica lo que has aprendido completando un ejercicio de codificación.
 3. **Revisión de Código**: Revisa la solución proporcionada y compárala con la tuya.
 4. **Desafíate a Ti Mismo**: Enfrenta un desafío adicional opcional para llevar tus habilidades más lejos.
+
+## Pruebas Unitarias 🚧
+Para ejecutar las pruebas unitarias que has proporcionado, necesitas seguir estos pasos:
+
+Instala pytest: Si aún no tienes instalado el módulo pytest, necesitarás instalarlo. Puedes hacerlo usando el administrador de paquetes pip. Abre tu terminal o línea de comandos y ejecuta:
+pip install pytest
+Organiza tus archivos: Asegúrate de que el archivo con las pruebas (el fragmento de código que proporcionaste) esté guardado en un archivo con la extensión .py. Por ejemplo, guárdalo como test_exercise.py.
+
+Ubicación de archivos: Asegúrate de que el archivo exercise_01.py (desde el cual importas la función found_type) esté en el mismo directorio que tu archivo de pruebas (test_exercise.py).
+
+Ejecuta las pruebas: Abre la terminal o línea de comandos y navega al directorio donde se encuentran tus archivos. Luego, ejecuta el siguiente comando:
+
+pytest test_exercise.py
+Esto ejecutará las pruebas definidas en test_exercise.py y mostrará los resultados en la consola. Si todas las pruebas pasan exitosamente, verás un mensaje indicando que todo está bien. Si alguna prueba falla, obtendrás información detallada sobre qué prueba falló y cómo.
+
+TODO
+- [ ] Traducir el README Principal
+- [ ] Traducir el README de cada dia.
+- [ ] Redactar mejor la explicación de las pruebas unitarias.
