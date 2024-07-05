@@ -52,8 +52,9 @@ pytest test_exercise.py
 
 Esto ejecutará las pruebas definidas en `test_exercise.py` y mostrará los resultados en la consola. Si todas las pruebas pasan exitosamente, verás un mensaje indicando que todo está bien. Si alguna prueba falla, obtendrás información detallada sobre qué prueba falló y cómo.
 
-TODO
+## TODO
 
 - [ ] Traducir el README Principal
 - [ ] Traducir el README de cada dia.
 - [ ] Redactar mejor la explicación de las pruebas unitarias.
+- [ ] Como se puede explicar el enviroments y los requerimientos.
