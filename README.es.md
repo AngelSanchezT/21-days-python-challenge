@@ -4,11 +4,11 @@
 
 ## Tabla de Contenidos
 
-- [📖 Introducción](#📖-introducción)
-- [🚀 Comenzando](#🚀-comenzando)
-- [📅 Estructura Diaria](#📅-estructura-diaria)
-- [💪 Ejercicios](#💪-ejercicios)
-- [🧪 Pruebas Unitarias](#🧪-pruebas-unitarias)
+- [📖 Introducción](#-introducción)
+- [🚀 Comenzando](#-comenzando)
+- [📅 Estructura Diaria](#-estructura-diaria)
+- [💪 Ejercicios](#-ejercicios)
+- [🧪 Pruebas Unitarias](#-pruebas-unitarias)
 
 ## 📖 Introducción
 
