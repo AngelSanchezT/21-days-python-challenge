@@ -1,10 +1,10 @@
-# ✅ Ejercicio 01 - Retorna el Tipo
+# ✅ Exercise 01 - Return the Type
 
-En este desafío encontrarás una función llamada solution que recibe un parámetro llamado valor. Debes encontrar el tipo de dato del parámetro valor y retornarlo desde la función solution.
+In this challenge, you will find a function called `solution` that takes a parameter named `value`. You need to determine the data type of the `value` parameter and return it from the `solution` function.
 
-Recuerda que el parámetro valor será distinto por cada distinta forma en que ejecutemos la función solution.
+Remember that the `value` parameter will be different each time we run the `solution` function.
 
-Ejemplo 1:
+Example 1:
 
 Input:
 

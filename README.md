@@ -7,6 +7,7 @@ Welcome to the 21-Day Python Challenge! This project is designed to help you mas
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
 - [Daily Structure](#daily-structure)
+- [🚧 Unit Tests](#🚧-unit-tests)
 
 ## Introduction
 
@@ -30,7 +31,13 @@ Each day of the challenge follows this structure:
 3. **Code Review**: Review the provided solution and compare it with your own.
 4. **Challenge Yourself**: Take on an optional extra challenge to push your skills further.
 
-## Unit Tests 🚧
+## Challenges
+
+|  #  |                                       Challenge                        |  ES  | Difficulty |               Solution                  |
+| :-: | :--------------------------------------------------------------------: | :--: | :--------: | :-------------------------------------: |
+| 01  | [✅ Return the Type](./day_01/README.md) | [![Español](./assets/flag_es.png)](./day_01/README.es.md) | Easy  | [Solution](./day_01/exercise_01.py) |
+
+## 🚧 Unit Tests
 
 To run the unit tests you have provided, you need to follow these steps:
 
@@ -51,9 +58,3 @@ pytest test_exercise.py
 ```
 
 This will run the tests defined in test_exercise.py and display the results in the console. If all tests pass successfully, you will see a message indicating that everything is fine. If any test fails, you will get detailed information about which test failed and how.
-
-TODO
-- [ ] Translate the main README
-- [ ] Translate the README for each day.
-- [ ] Improve the explanation of the unit tests.
-
