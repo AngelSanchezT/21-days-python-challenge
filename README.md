@@ -4,16 +4,17 @@ Welcome to the 21-Day Python Challenge! This project is designed to help you mas
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Daily Structure](#daily-structure)
-- [🚧 Unit Tests](#🚧-unit-tests)
+- [📖 Introduction](#-introduction)
+- [🚀 Getting Started](#-getting-started)
+- [📅 Daily Structure](#-daily-structure)
+- [💪 Ejercicios](#-challenges)
+- [🧪 Unit Tests](#-unit-tests)
 
-## Introduction
+## 📖 Introduction
 
 The 21-Day Python Challenge is an intensive program aimed at beginners who want to learn Python programming from the ground up. Whether you're a complete novice or have some coding experience, this challenge will guide you through a structured curriculum to build a solid foundation in Python.
 
-## Getting Started
+## 🚀 Getting Started
 
 To get started with the challenge, follow these steps:
 
@@ -22,7 +23,7 @@ To get started with the challenge, follow these steps:
 3. Open your terminal and navigate to the project directory.
 4. Execute the daily exercises for the next 21 days.
 
-## Daily Structure
+## 📅 Daily Structure
 
 Each day of the challenge follows this structure:
 
@@ -31,13 +32,13 @@ Each day of the challenge follows this structure:
 3. **Code Review**: Review the provided solution and compare it with your own.
 4. **Challenge Yourself**: Take on an optional extra challenge to push your skills further.
 
-## Challenges
+## 💪 Challenges
 
 |  #  |                                       Challenge                        |  ES  | Difficulty |               Solution                  |
 | :-: | :--------------------------------------------------------------------: | :--: | :--------: | :-------------------------------------: |
 | 01  | [✅ Return the Type](./day_01/README.md) | [![Español](./assets/flag_es.png)](./day_01/README.es.md) | Easy  | [Solution](./day_01/exercise_01.py) |
 
-## 🚧 Unit Tests
+## 🧪 Unit Tests
 
 To run the unit tests you have provided, you need to follow these steps:
 
