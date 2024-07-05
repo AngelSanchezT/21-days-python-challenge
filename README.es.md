@@ -4,15 +4,17 @@
 
 ## Tabla de Contenidos
 
-- [Introducción](#introducción)
-- [Comenzando](#comenzando)
-- [Estructura Diaria](#estructura-diaria)
+- [📖 Introducción](#📖-introducción)
+- [🚀 Comenzando](#🚀-comenzando)
+- [📅 Estructura Diaria](#📅-estructura-diaria)
+- [💪 Ejercicios](#💪-ejercicios)
+- [🧪 Pruebas Unitarias](#🧪-pruebas-unitarias)
 
-## Introducción
+## 📖 Introducción
 
 El Reto de Python de 21 Días es un programa intensivo dirigido a principiantes que desean aprender programación en Python desde cero. Ya seas un completo novato o tengas algo de experiencia en programación, este reto te guiará a través de un plan de estudios estructurado para construir una base sólida en Python.
 
-## Comenzando
+## 🚀 Comenzando
 
 Para comenzar con el reto, sigue estos pasos:
 
@@ -21,7 +23,7 @@ Para comenzar con el reto, sigue estos pasos:
 3. Abre tu terminal y navega al directorio del proyecto.
 4. Ejecuta los ejercicios diarios durante los próximos 21 días.
 
-## Estructura Diaria
+## 📅 Estructura Diaria
 
 Cada día del reto sigue esta estructura:
 
@@ -30,7 +32,13 @@ Cada día del reto sigue esta estructura:
 3. **Revisión de Código**: Revisa la solución proporcionada y compárala con la tuya.
 4. **Desafíate a Ti Mismo**: Enfrenta un desafío adicional opcional para llevar tus habilidades más lejos.
 
-## Pruebas Unitarias 🚧
+## 💪 Ejercicios
+
+|  #  |                                       Challenge                        |  ES  | Difficulty |               Solution                  |
+| :-: | :--------------------------------------------------------------------: | :--: | :--------: | :-------------------------------------: |
+| 01  | [✅ Retorna el Tipo](./day_01/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_01/README.md) | Easy  | [Solution](./day_01/exercise_01.py) |
+
+## 🧪 Pruebas Unitarias
 
 Para ejecutar las pruebas unitarias que has proporcionado, necesitas seguir estos pasos:
 
