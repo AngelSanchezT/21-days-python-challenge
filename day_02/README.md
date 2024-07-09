@@ -1,22 +1,21 @@
-# ✅ Ejercicio 02 - Calcula la propina
+# ✅ Exercise 02 - Calculate the Tip
 
-En este desafío tendrás que calcular la propina que deben dejar los clientes de un restaurante en función de su consumo.
+In this challenge, you will need to calculate the tip that restaurant customers should leave based on their consumption.
 
-La función `calculate_tip` recibirá dos parámetros, `bill_amount` que representa el costo total de lo que se haya consumido y `tip_percentage` que representa el porcentaje de propina a dejar. Ambos valores serán de tipo float y siempre serán positivos, incluyendo el 0. La función deberá devolver el valor de la propina como un número.
+The `calculate_tip` function will receive two parameters, `bill_amount` which represents the total cost of what has been consumed, and `tip_percentage` which represents the percentage of the tip to leave. Both values will be of type float and will always be positive, including 0. The function should return the tip amount as a number.
 
-> Recuerda que para redondear a dos decimales tendrás que hacer uso de round(numero, cantidad de decimales)
-> 
+> Remember that to round to two decimal places you will need to use round(number, number of decimal places)
 
-Tendrás inputs y outputs como los siguientes 👇
+You will have inputs and outputs like the following 👇
 
-Ejemplo 1:
+Example 1:
 
 ```python
 Input: calculate_tip(100, 10);
 Output: 10;
 ```
 
-Ejemplo 2:
+Example 2:
 
 ```python
 Input: calculate_tip(1524.33, 25);
