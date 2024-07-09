@@ -42,6 +42,7 @@ Each day of the challenge follows this structure:
 |  #  |                                       Challenge                        |  ES  | Difficulty |               Solution                  |
 | :-: | :--------------------------------------------------------------------: | :--: | :--------: | :-------------------------------------: |
 | 01  | [✅ Return the Type](./day_01/README.md) | [![Español](./assets/flag_es.png)](./day_01/README.es.md) | Easy  | [Solution](./day_01/exercise_01.py) |
+| 02  | [✅ Calculate the Tip](./day_02/README.md) | [![Español](./assets/flag_es.png)](./day_02/README.es.md) | Easy  | [Solution](./day_02/exercise_02.py) |
 
 ## 🧪 Unit Tests
 [🔝 Back to Top](#top)
