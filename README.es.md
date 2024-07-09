@@ -42,6 +42,7 @@ Cada día del reto sigue esta estructura:
 |  #  |                                       Challenge                        |  ES  | Difficulty |               Solution                  |
 | :-: | :--------------------------------------------------------------------: | :--: | :--------: | :-------------------------------------: |
 | 01  | [✅ Retorna el Tipo](./day_01/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_01/README.md) | Easy  | [Solution](./day_01/exercise_01.py) |
+| 02  | [✅ Calcula la propina](./day_02/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_02/README.md) | Easy  | [Solution](./day_02/exercise_02.py) |
 
 ## 🧪 Pruebas Unitarias
 [🔝 Volver al inicio](#top)
