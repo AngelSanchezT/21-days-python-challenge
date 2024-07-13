@@ -44,7 +44,7 @@ Each day of the challenge follows this structure:
 | 01  | [✅ Return the Type](./day_01/README.md) | [![Español](./assets/flag_es.png)](./day_01/README.es.md) | Easy  | [Solution](./day_01/exercise_01.py) |
 | 02  | [✅ Calculate the Tip](./day_02/README.md) | [![Español](./assets/flag_es.png)](./day_02/README.es.md) | Easy  | [Solution](./day_02/exercise_02.py) |
 | 03  | [✅ Determine if a Year is a Leap Year](./day_03/README.md) | [![Español](./assets/flag_es.png)](./day_03/README.es.md) | Easy  | [Solution](./day_03/exercise_03.py) |
-| 04  | [✅ Draw a Triangle Using Loops](./day_03/README.md#-exercise-04---draw-a-triangle-using-loops) | [![Español](./assets/flag_es.png)](./day_03/README.es.md) | Easy  | [Solution](./day_03/exercise_04.py) |
+| 04  | [✅ Draw a Triangle Using Loops](./day_03/README.md#-exercise-04---draw-a-triangle-using-loops) | [![Español](./assets/flag_es.png)](./day_03/README.es.md#-ejercicio-04---dibuja-un-triangulo-usando-bucles) | Easy  | [Solution](./day_03/exercise_04.py) |
 
 ## 🧪 Unit Tests
 [🔝 Back to Top](#top)
