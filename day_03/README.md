@@ -1,50 +1,48 @@
-# ✅ Ejercicio 03 - Averigua si un año es bisiesto
+# ✅ Exercise 03 - Determine if a Year is a Leap Year
 
-En este desafío de Python, debes crear la lógica de la función `is_leap_year`, que determina si un año es bisiesto o no. Un año es bisiesto si cumple con las siguientes condiciones:
+In this Python challenge, you need to create the logic for the function `is_leap_year`, which determines if a year is a leap year or not. A year is a leap year if it meets the following conditions:
 
-- Es divisible por 4, pero no por 100.
-- Si es divisible por 100 debe serlo por 400 también.
+- It is divisible by 4 but not by 100.
+- If it is divisible by 100, it must also be divisible by 400.
 
-La función `is_leap_year` recibe un único parámetro: el año a evaluar. Debe devolver `True` si el año es bisiesto o `False` en caso contrario.
+The function `is_leap_year` receives a single parameter: the year to evaluate. It should return `True` if the year is a leap year or `False` otherwise.
 
-Toma en cuenta que la función debe ser capaz de manejar valores no enteros o negativos.
+Note that the function must be able to handle non-integer or negative values.
 
-Ejemplo 1:
+Example 1:
 
-```
+```python
 Input: 2000;
 Output: true;
 ```
 
-Ejemplo 2:
+Example 2:
 
-```
+```python
 Input: -2024;
 Output: false;
 ```
 
-Ejemplo 3:
+Example 3:
 
-```
+```python
 Input: 1984.25;
 Output: false;
 ```
 
-# ✅ Ejercicio 04 - Dibuja un triangulo usando bucles
+# ✅ Exercise 04 - Draw a Triangle Using Loops
 
+In this challenge, you need to draw an equilateral triangle using loops.
 
-En este desafío, debes dibujar un triángulo equilatero usando bucles.
+You will receive two parameters: `size` and `character`, which define the number of rows and the character used to build the triangle, respectively. Additionally, the triangle must be center-aligned, meaning it should have the same number of characters on both sides.
 
-Recibirás dos parámetros: `size` y `character`, que definen el número de filas que tendrá y el carácter con el que se debe construir el triángulo, respectivamente. Además, el triángulo debe estar alineado al centro, lo que significa que la misma cantidad de caracteres debe haber en ambos lados.
+> Remember that to make a line break you need to use "\n", do not forget to remove it from the last part, you must return all this in a variable.
 
-> Recuerda que para hacer el salto de línea debes usar "\n", no olvides removerla de la última parte, debes retornar todo esto en una variable.
-> 
+You will have inputs and outputs like the following 👇
 
-Tendrás inputs y outputs como los siguientes 👇
+Example 1:
 
-Ejemplo 1:
-
-```
+```python
 Input: printTriangle(3, "*")
 Output:
   *
@@ -54,7 +52,7 @@ Output:
 
 Ejemplo 2:
 
-```
+```python
 Input: printTriangle(6, "$")
 Output:
      $

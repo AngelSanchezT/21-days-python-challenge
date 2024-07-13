@@ -43,6 +43,8 @@ Cada día del reto sigue esta estructura:
 | :-: | :--------------------------------------------------------------------: | :--: | :--------: | :-------------------------------------: |
 | 01  | [✅ Retorna el Tipo](./day_01/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_01/README.md) | Fácil  | [Solución](./day_01/exercise_01.py) |
 | 02  | [✅ Calcula la propina](./day_02/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_02/README.md) | Fácil  | [Solución](./day_02/exercise_02.py) |
+| 03  | [✅ Averigua si un año es bisiesto](./day_03/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_03/README.md) | Fácil  | [Solución](./day_03/exercise_03.py) |
+| 04  | [✅ Dibuja un triangulo usando bucles](./day_04/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_03/README.md) | Fácil  | [Solución](./day_03/exercise_04.py) |
 
 ## 🧪 Pruebas Unitarias [🔝 Volver al inicio](#top)
 
