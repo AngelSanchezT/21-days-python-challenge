@@ -39,13 +39,13 @@ Cada día del reto sigue esta estructura:
 ## 💪 Ejercicios
 [🔝 Volver al inicio](#top)
 
-|  #  |                                       Challenge                        |  ES  | Difficulty |               Solution                  |
+|  #  |                                       Ejercicio                        |  EN  | Dificultad |               Solución                  |
 | :-: | :--------------------------------------------------------------------: | :--: | :--------: | :-------------------------------------: |
-| 01  | [✅ Retorna el Tipo](./day_01/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_01/README.md) | Easy  | [Solution](./day_01/exercise_01.py) |
-| 02  | [✅ Calcula la propina](./day_02/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_02/README.md) | Easy  | [Solution](./day_02/exercise_02.py) |
+| 01  | [✅ Retorna el Tipo](./day_01/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_01/README.md) | Fácil  | [Solución](./day_01/exercise_01.py) |
+| 02  | [✅ Calcula la propina](./day_02/README.es.md) | [![Ingles](./assets/flag_us.png)](./day_02/README.md) | Fácil  | [Solución](./day_02/exercise_02.py) |
 
-## 🧪 Pruebas Unitarias
-[🔝 Volver al inicio](#top)
+## 🧪 Pruebas Unitarias [🔝 Volver al inicio](#top)
+
 
 Para ejecutar las pruebas unitarias que has proporcionado, necesitas seguir estos pasos:
 
